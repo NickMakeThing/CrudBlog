@@ -1,0 +1,7 @@
+{
+    "typescript.autoClosingTags": false,
+    "typescript.format.enable": false,
+    "javascript.suggest.jsdoc.generateReturns": true,
+    "javascript.validate.enable": false,
+    "js/ts.implicitProjectConfig.checkJs": true
+}

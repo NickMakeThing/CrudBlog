@@ -1,0 +1,18 @@
+#search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50%;
+    width: 109px;
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#search-input {
+    border: none;
+    background-color: rgba(0,0,0,0);
+    width: 100%;
+    outline: none;
+}

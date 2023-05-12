@@ -1,0 +1,34 @@
+.blogpost-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+.blogpost-date{
+    font-size: 80%;
+    opacity: 0.5;
+    margin-top: 1px;
+}
+.blogpost-title-container{
+    margin-top: 55px;
+    margin-bottom: 27px;
+}
+.blogpost-title{
+    font-size: 210%;
+    font-weight: bold;
+}
+.blogpost-description{
+    max-width: 600px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+.blogpost-content{
+    display: flex;
+    flex-direction: column;
+    max-width: 700px; 
+    align-items: center;
+    line-height: 25px;
+    margin-left: 20px;
+    margin-right: 15px;
+}
