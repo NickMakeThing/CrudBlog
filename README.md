@@ -1,4 +1,4 @@
 # CrudBlog
-This full stack Django/React project provides a web application that features create, retrieve, update and delete operations.  
-Users will be presented with list, detail and manager views.  
-The manager view is a simple user interface that provides for create, update and delete operations.
+CrudBlog is a very basic blog/CMS built on Django and React.
+It has list, detail and manager views. 
+The manager view allows the admin of the site to add, delete, and update blog posts.
